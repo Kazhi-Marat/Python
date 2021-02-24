@@ -61,15 +61,6 @@ else:
     print("Решение НЕТ")
 
 
-# x = int(input("Введите число X = "))
-# y = int(input("Введите число Y = "))
-# if x=-0
-#     print("ERROR")
-# else:
-#      z = y/x
-#      print(x,y,z)
-#      
-
 # In[5]:
 import math
 x = int(input("Введите число X = "))
